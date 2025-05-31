@@ -3,9 +3,13 @@
 Also create .env file and add GROQ_API_KEY 
 
 Later in Anaconda Prompt run below 
+
 cd path\mini-kreate-prompt
+
 conda activate mini-kreate
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 
