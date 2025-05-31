@@ -1,0 +1,14 @@
+streamlit
+pyttsx3
+speechrecognition
+wikipedia
+groq
+chromadb
+python-dotenv
+
+
+
+
+
+
+
